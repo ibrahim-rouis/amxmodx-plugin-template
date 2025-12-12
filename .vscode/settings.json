@@ -1,0 +1,9 @@
+{
+    "amxxpawn.compiler.includePaths": [
+        "${workspaceRoot}/include",
+    ],
+    "amxxpawn.compiler.executablePath": "${workspaceRoot}/bin/win32/amxxpc.exe",
+    //"amxxpawn.compiler.executablePath": "${workspaceRoot}/bin/linux/amxxpc"
+    "amxxpawn.compiler.outputPath": "${workspaceRoot}/build",
+    "amxxpawn.compiler.outputType": "path",
+}
